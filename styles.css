@@ -1,0 +1,103 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background: url('images/header.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+.Mon_Portfolio{
+    font-size: 22px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+.a1 b{
+    border-bottom: 4px solid white;
+    border-bottom-left-radius: 19px;
+
+    
+}
+
+footer {
+    margin-top: 30px;
+}
+span{
+    color: white;
+    background-color: gray;
+}
+.img1{
+   border-radius: 80%;
+}
+.nam{
+    font-size: 34px;
+    font-weight: bold;
+    font-style: italic;
+}
+.imgx{
+    height: 200px;
+}
+
+
+.skill-container{
+    width: 50%;
+    background-color: black;
+    height: 20px;
+    margin: 0px 10px;
+    margin-top: -12px;
+   margin: auto;
+}
+.skill-html{
+    width: 87%;
+    background-color: blue;
+    height: 20px;
+    
+}
+
+.skill-css{
+    width: 80%;
+    background-color: blue;
+    height: 20px;
+}
+
+.skill-bootstrap{
+    width: 77%;
+    background-color: blue;
+    height: 20px;
+}
+.skill-excel{
+    width: 65%;
+    background-color: blue;
+    height: 20px;
+}
+.skill-word{
+    width: 70%;
+    background-color: blue;
+    height: 20px;
+}
+
+.skill-PowerPoint{
+    width: 50%;
+    background-color: blue;
+    height: 20px;
+}
+
+.html, .css, .bootstrap, .excel, .word, .PowerPoint{
+margin-left: 135px
+}
+
+
+
+
+
+
+
